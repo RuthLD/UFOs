@@ -9,7 +9,7 @@ This analysis aimed to view information related to UFO sightings based on five s
 1. Type
 
 
-The information is displayed on a webpage that accepts user input for any combination of the search criteria. The UFO data is pulled from the data.js file, and the index.html holds the webpage code.
+The information is displayed on a webpage that accepts user input for any combination of the search criteria. The UFO data is pulled from the [data.js](https://github.com/RuthLD/UFOs/blob/main/static/js/data.js) file, well [app.js](https://github.com/RuthLD/UFOs/blob/main/static/js/app.js) holds the code for the filters, and the [index.html](https://github.com/RuthLD/UFOs/blob/main/index.html) holds the webpage code.
 
 ## Using the Webpage: 
 The filters to search by are located below the introduction to the webpage.
