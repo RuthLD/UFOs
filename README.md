@@ -1,12 +1,12 @@
 # UFOs
-Use JavaScript to create a dynamic webpage for UFO sighting data.
+👽 Use JavaScript to create a dynamic webpage for UFO sighting data.
 ## Overview: 
 This analysis aimed to view information related to UFO sightings based on five search criteria.
-1. Date
-1. City
-1. State
-1. Country
-1. Type
+1. Date 📅
+1. City 🏙️
+1. State 🗽
+1. Country 🗺️
+1. Type 🔵
 
 
 The information is displayed on a webpage that accepts user input for any combination of the search criteria. The UFO data is pulled from the [data.js](https://github.com/RuthLD/UFOs/blob/main/static/js/data.js) file, well [app.js](https://github.com/RuthLD/UFOs/blob/main/static/js/app.js) holds the code for the filters, and the [index.html](https://github.com/RuthLD/UFOs/blob/main/index.html) holds the webpage code.
